@@ -13,11 +13,19 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.35.0",
-    "eslint": "^9.35.0",
+    "@eslint/js": "^9.36.0",
+    "eslint": "^9.36.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-react": "^7.37.5",
     "globals": "^16.4.0",
     "prettier": "^3.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatahuy1/DC21V7N513_Ta_Ngoc_Huy_CT449.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tatahuy1/DC21V7N513_Ta_Ngoc_Huy_CT449/issues"
+  },
+  "homepage": "https://github.com/tatahuy1/DC21V7N513_Ta_Ngoc_Huy_CT449#readme"
 }
